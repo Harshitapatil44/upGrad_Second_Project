@@ -46,7 +46,7 @@ Key Insights :-
 - Some features show stronger correlation with default risk and can be useful for predictive modeling.
 
 How to Run the Project :- 
-1. Clone the repository ( 
+1. Clone the repository ( https://github.com/Harshitapatil44/upGrad_Second_Project ) 
 2. Install required libraries
 3. Open the Jupyter Notebook and run the analysis.
 
